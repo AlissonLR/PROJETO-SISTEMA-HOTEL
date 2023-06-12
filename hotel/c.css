@@ -1,0 +1,16 @@
+
+
+body{
+
+background-color: gray;
+}
+
+
+.test{
+
+background-color: black;
+
+font-style: oblique;
+color: rgba(255, 255, 255, 0.589);
+border-radius: 1cm;
+}
